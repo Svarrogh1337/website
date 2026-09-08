@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-08T18:11:12.298Z",
+  "updated": "2026-09-08T23:03:04.118Z",
   "sample": false,
   "tracks": [
     {
-      "name": "I Will Not Bow",
+      "name": "Carrion",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M",
+      "image": "https://i.scdn.co/image/ab67616d00004851248c3d99d296604ecd4f2c89",
+      "played_at": "2026-09-08T20:08:14.345Z"
+    },
+    {
+      "name": "Waiting On The Sky To Change",
+      "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+      "url": "https://open.spotify.com/track/7uDMF4Ae8vqI7U1jGTewD4",
+      "image": "https://i.scdn.co/image/ab67616d00004851f98960457d4515f816f50fbc",
+      "played_at": "2026-09-08T19:09:45.612Z"
+    },
+    {
+      "name": "Blow Me Away - Soundtrack Version",
       "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/2yXyz4NLTZx9CLdXfLTp5E",
-      "image": "https://i.scdn.co/image/ab67616d0000485108cdafd988bd04d9b14159d3",
-      "played_at": "2026-09-08T16:34:43.812Z"
+      "url": "https://open.spotify.com/track/7js2TSkQLuRWBIQ4HSTAv2",
+      "image": "https://i.scdn.co/image/ab67616d00004851d50f20cc83da1c1c156a4405",
+      "played_at": "2026-09-08T19:04:53.599Z"
+    },
+    {
+      "name": "Follow - Radio Edit",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/2busyK7jKVJaZN4Q6gZqKw",
+      "image": "https://i.scdn.co/image/ab67616d000048514500b37eb7046f29233099a0",
+      "played_at": "2026-09-08T18:59:08.515Z"
+    },
+    {
+      "name": "So Cold - Remix",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/4BJyt25nburVwbnESDeIc7",
+      "image": "https://i.scdn.co/image/ab67616d000048514500b37eb7046f29233099a0",
+      "played_at": "2026-09-08T18:46:54.005Z"
     },
     {
       "name": "The Diary of Jane - Single Version",
       "artist": "Breaking Benjamin",
       "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ",
       "image": "https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149",
-      "played_at": "2026-09-08T16:34:42.341Z"
-    },
-    {
-      "name": "This Is The New Shit",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
-      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-09-08T16:19:43.542Z"
-    },
-    {
-      "name": "Tainted Love",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/0ZeKQudydO2uQJpfr6gNC8",
-      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-09-08T16:15:17.895Z"
-    },
-    {
-      "name": "Feel So Numb",
-      "artist": "Rob Zombie",
-      "url": "https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD",
-      "image": "https://i.scdn.co/image/ab67616d000048511d624949c965172774b98178",
-      "played_at": "2026-09-08T15:53:33.840Z"
-    },
-    {
-      "name": "Operation Blade (7\" Radio Edit)",
-      "artist": "Public Domain",
-      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS",
-      "image": "https://i.scdn.co/image/ab67616d00004851cbb25db4dc0a49cb658c667d",
-      "played_at": "2026-09-08T15:50:49.453Z"
+      "played_at": "2026-09-08T18:39:59.141Z"
     }
   ]
 }
