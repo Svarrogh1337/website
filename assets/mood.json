@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-09T02:04:04.867Z",
+  "updated": "2026-09-09T07:39:42.011Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Carrion",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M",
-      "image": "https://i.scdn.co/image/ab67616d00004851248c3d99d296604ecd4f2c89",
-      "played_at": "2026-09-08T20:08:14.345Z"
-    },
-    {
-      "name": "Waiting On The Sky To Change",
-      "artist": "STARSET, Breaking Benjamin, Judge & Jury",
-      "url": "https://open.spotify.com/track/7uDMF4Ae8vqI7U1jGTewD4",
-      "image": "https://i.scdn.co/image/ab67616d00004851f98960457d4515f816f50fbc",
-      "played_at": "2026-09-08T19:09:45.612Z"
-    },
-    {
-      "name": "Blow Me Away - Soundtrack Version",
+      "name": "Failure",
       "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/7js2TSkQLuRWBIQ4HSTAv2",
-      "image": "https://i.scdn.co/image/ab67616d00004851d50f20cc83da1c1c156a4405",
-      "played_at": "2026-09-08T19:04:53.599Z"
+      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9",
+      "image": "https://i.scdn.co/image/ab67616d000048518b1dc76f3a0cc8381b012e24",
+      "played_at": "2026-09-09T07:38:43.779Z"
     },
     {
-      "name": "Follow - Radio Edit",
+      "name": "Awaken",
       "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/2busyK7jKVJaZN4Q6gZqKw",
-      "image": "https://i.scdn.co/image/ab67616d000048514500b37eb7046f29233099a0",
-      "played_at": "2026-09-08T18:59:08.515Z"
+      "url": "https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu",
+      "image": "https://i.scdn.co/image/ab67616d0000485114a8f3049bad5eaf70318b51",
+      "played_at": "2026-09-09T07:35:13.884Z"
+    },
+    {
+      "name": "Dear Agony",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5",
+      "image": "https://i.scdn.co/image/ab67616d0000485108cdafd988bd04d9b14159d3",
+      "played_at": "2026-09-09T07:31:40.881Z"
+    },
+    {
+      "name": "Breath",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/4JXfNOePhdgMOI7KZ1L25U",
+      "image": "https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149",
+      "played_at": "2026-09-09T07:27:27.590Z"
+    },
+    {
+      "name": "Angels Fall",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/2D9BrlpeyjXF0vli2dYQ5V",
+      "image": "https://i.scdn.co/image/ab67616d000048518b1dc76f3a0cc8381b012e24",
+      "played_at": "2026-09-09T07:23:54.182Z"
     },
     {
       "name": "So Cold - Remix",
       "artist": "Breaking Benjamin",
       "url": "https://open.spotify.com/track/4BJyt25nburVwbnESDeIc7",
       "image": "https://i.scdn.co/image/ab67616d000048514500b37eb7046f29233099a0",
-      "played_at": "2026-09-08T18:46:54.005Z"
-    },
-    {
-      "name": "The Diary of Jane - Single Version",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ",
-      "image": "https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149",
-      "played_at": "2026-09-08T18:39:59.141Z"
+      "played_at": "2026-09-09T07:20:10.238Z"
     }
   ]
 }
