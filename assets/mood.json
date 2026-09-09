@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-09T07:39:42.011Z",
+  "updated": "2026-09-09T13:14:28.117Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Failure",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9",
-      "image": "https://i.scdn.co/image/ab67616d000048518b1dc76f3a0cc8381b012e24",
-      "played_at": "2026-09-09T07:38:43.779Z"
+      "name": "Du hast",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/6Tjk8h4UFQxUoAh8GK6phb",
+      "image": "https://i.scdn.co/image/ab6742d3000052b717e5c432edbc4b84612e0dfe",
+      "played_at": "2026-09-09T11:48:13.683Z"
     },
     {
-      "name": "Awaken",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu",
-      "image": "https://i.scdn.co/image/ab67616d0000485114a8f3049bad5eaf70318b51",
-      "played_at": "2026-09-09T07:35:13.884Z"
+      "name": "Deutschland",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/40G2DRf83OIUuVYA5h4cRX",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7dd3e32bcc772537ce46124b9",
+      "played_at": "2026-09-09T11:44:18.724Z"
     },
     {
-      "name": "Dear Agony",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5",
-      "image": "https://i.scdn.co/image/ab67616d0000485108cdafd988bd04d9b14159d3",
-      "played_at": "2026-09-09T07:31:40.881Z"
+      "name": "Sonne",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/6Ov6rVRUmyZ3jcACU50WRY",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7f6df7ce6587e3ce5f76f5cbc",
+      "played_at": "2026-09-09T11:34:54.615Z"
     },
     {
-      "name": "Breath",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/4JXfNOePhdgMOI7KZ1L25U",
-      "image": "https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149",
-      "played_at": "2026-09-09T07:27:27.590Z"
+      "name": "Speakerbox (feat. Lafa Taylor)",
+      "artist": "Bassnectar, Lafa Taylor",
+      "url": "https://open.spotify.com/track/3NPYT4nilQ6YW1uA8I7orI",
+      "image": "https://i.scdn.co/image/ab67616d000048514aebbaa035dc2260e804b005",
+      "played_at": "2026-09-09T11:28:28.704Z"
     },
     {
-      "name": "Angels Fall",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/2D9BrlpeyjXF0vli2dYQ5V",
-      "image": "https://i.scdn.co/image/ab67616d000048518b1dc76f3a0cc8381b012e24",
-      "played_at": "2026-09-09T07:23:54.182Z"
+      "name": "Ausländer",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/7t6bPsDY9Mf02plAXVuM1A",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7fb08749856d83d5450238d96",
+      "played_at": "2026-09-09T11:22:35.490Z"
     },
     {
-      "name": "So Cold - Remix",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/4BJyt25nburVwbnESDeIc7",
-      "image": "https://i.scdn.co/image/ab67616d000048514500b37eb7046f29233099a0",
-      "played_at": "2026-09-09T07:20:10.238Z"
+      "name": "Ich will",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/6PaBUMaOuWYJGR7xqkisxP",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7f04daf5e8b0fe0629161cd36",
+      "played_at": "2026-09-09T11:17:53.505Z"
     }
   ]
 }
