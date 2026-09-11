@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-11T07:34:48.676Z",
+  "updated": "2026-09-11T13:05:51.789Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Move It",
-      "artist": "POLTERGST",
-      "url": "https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN",
-      "image": "https://i.scdn.co/image/ab67616d0000485117d43384948cb493fbf00bd1",
-      "played_at": "2026-09-11T07:31:02.580Z"
+      "name": "Strife",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0",
+      "image": "https://i.scdn.co/image/ab67616d000048511845aeca9258f7a9aabd3fa2",
+      "played_at": "2026-09-11T10:52:20.635Z"
     },
     {
-      "name": "Beast Mode (Symphony)",
-      "artist": "Rene Rodrigezz, Nina Sofie",
-      "url": "https://open.spotify.com/track/49keRWQn7HFIAuMRO7clBH",
-      "image": "https://i.scdn.co/image/ab67616d00004851dc1517befa8efabc85713d14",
-      "played_at": "2026-09-11T07:25:18.091Z"
+      "name": "In Waves",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy",
+      "image": "https://i.scdn.co/image/ab67616d000048511f51def2ba7d8019d747bb32",
+      "played_at": "2026-09-11T10:42:00.309Z"
     },
     {
-      "name": "Unfaithful",
-      "artist": "Blasterjaxx",
-      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8",
-      "image": "https://i.scdn.co/image/ab67616d00004851d77e022c8b469f39e355b0fb",
-      "played_at": "2026-09-11T07:23:10.557Z"
+      "name": "Until the World Goes Cold",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf",
+      "image": "https://i.scdn.co/image/ab67616d000048517a936cb18fbf6bec7127c430",
+      "played_at": "2026-09-11T10:36:57.237Z"
     },
     {
-      "name": "Hey Baby (Drop It to the Floor) (feat. T-Pain)",
-      "artist": "Pitbull, T-Pain",
-      "url": "https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen",
-      "image": "https://i.scdn.co/image/ab67616d000048511dc7483a9fcfce54822a2f19",
-      "played_at": "2026-09-11T07:08:56.437Z"
+      "name": "The Heart from Your Hate",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS",
+      "image": "https://i.scdn.co/image/ab67616d0000485149297ff523b7098a50195711",
+      "played_at": "2026-09-11T10:31:34.947Z"
     },
     {
-      "name": "We Got the Moves - RIOT Remix",
-      "artist": "Electric Bassboy, RIOT",
-      "url": "https://open.spotify.com/track/0gm0QMvhuN1tKaBdPs3E78",
-      "image": "https://i.scdn.co/image/ab67616d00004851d44a0e703a59c818ea72bd9f",
-      "played_at": "2026-09-11T07:05:01.461Z"
+      "name": "Technologic",
+      "artist": "Daft Punk",
+      "url": "https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS",
+      "image": "https://i.scdn.co/image/ab67616d000048512ed719bad67261c7bf090c70",
+      "played_at": "2026-09-11T10:27:28.031Z"
     },
     {
-      "name": "Holding Out for a Hero",
-      "artist": "Pokeyz, Axelle Maga",
-      "url": "https://open.spotify.com/track/5X2nNJJKFzg4k0l58toqmn",
-      "image": "https://i.scdn.co/image/ab67616d00004851946e11d772b07b2931e2864c",
-      "played_at": "2026-09-11T07:01:42.544Z"
+      "name": "One (Always Hardcore)",
+      "artist": "Scooter",
+      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL",
+      "image": "https://i.scdn.co/image/ab67616d000048511a11c170e42b507791da1151",
+      "played_at": "2026-09-11T10:25:33.597Z"
     }
   ]
 }
