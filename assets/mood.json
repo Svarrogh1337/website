@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-11T01:59:07.667Z",
+  "updated": "2026-09-11T07:34:48.676Z",
   "sample": false,
   "tracks": [
     {
-      "name": "My Heart Will Go On",
+      "name": "Move It",
+      "artist": "POLTERGST",
+      "url": "https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN",
+      "image": "https://i.scdn.co/image/ab67616d0000485117d43384948cb493fbf00bd1",
+      "played_at": "2026-09-11T07:31:02.580Z"
+    },
+    {
+      "name": "Beast Mode (Symphony)",
+      "artist": "Rene Rodrigezz, Nina Sofie",
+      "url": "https://open.spotify.com/track/49keRWQn7HFIAuMRO7clBH",
+      "image": "https://i.scdn.co/image/ab67616d00004851dc1517befa8efabc85713d14",
+      "played_at": "2026-09-11T07:25:18.091Z"
+    },
+    {
+      "name": "Unfaithful",
       "artist": "Blasterjaxx",
-      "url": "https://open.spotify.com/track/6JEpvqT4N0zlD4HeohYYRm",
-      "image": "https://i.scdn.co/image/ab67616d000048516561e9b53c891ebe5118d6d1",
-      "played_at": "2026-09-10T15:42:33.527Z"
+      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8",
+      "image": "https://i.scdn.co/image/ab67616d00004851d77e022c8b469f39e355b0fb",
+      "played_at": "2026-09-11T07:23:10.557Z"
     },
     {
-      "name": "Still Waiting",
-      "artist": "STVW",
-      "url": "https://open.spotify.com/track/0bVYWnOhQ2nMwpciJrEgwU",
-      "image": "https://i.scdn.co/image/ab67616d00004851fff4f4b1e3665feaacbf2c7a",
-      "played_at": "2026-09-10T15:39:04.604Z"
+      "name": "Hey Baby (Drop It to the Floor) (feat. T-Pain)",
+      "artist": "Pitbull, T-Pain",
+      "url": "https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen",
+      "image": "https://i.scdn.co/image/ab67616d000048511dc7483a9fcfce54822a2f19",
+      "played_at": "2026-09-11T07:08:56.437Z"
     },
     {
-      "name": "Like A G6 (with Naeleck)",
-      "artist": "Timmy Trumpet, POLTERGST, Naeleck",
-      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7",
-      "image": "https://i.scdn.co/image/ab67616d000048517f204874482f7067e7844694",
-      "played_at": "2026-09-10T15:34:00.475Z"
+      "name": "We Got the Moves - RIOT Remix",
+      "artist": "Electric Bassboy, RIOT",
+      "url": "https://open.spotify.com/track/0gm0QMvhuN1tKaBdPs3E78",
+      "image": "https://i.scdn.co/image/ab67616d00004851d44a0e703a59c818ea72bd9f",
+      "played_at": "2026-09-11T07:05:01.461Z"
     },
     {
-      "name": "Wave Rider (From Hotel Transylvania 3)",
-      "artist": "Tiësto",
-      "url": "https://open.spotify.com/track/4DYsxBBZNIrRdWRm5JSjQX",
-      "image": "https://i.scdn.co/image/ab67616d0000485188585309bc77237dd85ee508",
-      "played_at": "2026-09-10T15:31:31.134Z"
-    },
-    {
-      "name": "Rave From Outer Space",
-      "artist": "W&W, Scooter",
-      "url": "https://open.spotify.com/track/6vMyEjiBfrk4qt8kQBwbEj",
-      "image": "https://i.scdn.co/image/ab67616d00004851f138e087644f80bf048426ad",
-      "played_at": "2026-09-10T15:28:39.274Z"
-    },
-    {
-      "name": "Let It Rock",
-      "artist": "Nic Johnston, Carl Lazy, Sandëro",
-      "url": "https://open.spotify.com/track/2qWRlPccdBNpnQEPlcAxXy",
-      "image": "https://i.scdn.co/image/ab67616d00004851dc98d08158adc486e19b1dfc",
-      "played_at": "2026-09-10T15:26:27.335Z"
+      "name": "Holding Out for a Hero",
+      "artist": "Pokeyz, Axelle Maga",
+      "url": "https://open.spotify.com/track/5X2nNJJKFzg4k0l58toqmn",
+      "image": "https://i.scdn.co/image/ab67616d00004851946e11d772b07b2931e2864c",
+      "played_at": "2026-09-11T07:01:42.544Z"
     }
   ]
 }
