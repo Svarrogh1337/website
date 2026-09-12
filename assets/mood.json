@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-12T02:04:01.871Z",
+  "updated": "2026-09-12T07:25:49.093Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Strife",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0",
-      "image": "https://i.scdn.co/image/ab67616d000048511845aeca9258f7a9aabd3fa2",
-      "played_at": "2026-09-11T10:52:20.635Z"
+      "name": "Black Betty",
+      "artist": "Braaheim",
+      "url": "https://open.spotify.com/track/3dXLhWGgGEigv2J5BANl0A",
+      "image": "https://i.scdn.co/image/ab67616d000048518f2c7f78d79eecba9edec849",
+      "played_at": "2026-09-12T06:29:58.308Z"
     },
     {
-      "name": "In Waves",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy",
-      "image": "https://i.scdn.co/image/ab67616d000048511f51def2ba7d8019d747bb32",
-      "played_at": "2026-09-11T10:42:00.309Z"
+      "name": "Levels - Skrillex Remix",
+      "artist": "Avicii, Skrillex",
+      "url": "https://open.spotify.com/track/5f6igUw1asUL4AGXSvgTW8",
+      "image": "https://i.scdn.co/image/ab67616d0000485198b2942df06b3ec74223920c",
+      "played_at": "2026-09-12T06:27:37.898Z"
     },
     {
-      "name": "Until the World Goes Cold",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf",
-      "image": "https://i.scdn.co/image/ab67616d000048517a936cb18fbf6bec7127c430",
-      "played_at": "2026-09-11T10:36:57.237Z"
+      "name": "My Gasoline",
+      "artist": "Maddix, Fēlēs",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE",
+      "image": "https://i.scdn.co/image/ab67616d0000485199ebb63d3ccbc4115fbbdbf5",
+      "played_at": "2026-09-12T06:22:53.525Z"
     },
     {
-      "name": "The Heart from Your Hate",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS",
-      "image": "https://i.scdn.co/image/ab67616d0000485149297ff523b7098a50195711",
-      "played_at": "2026-09-11T10:31:34.947Z"
+      "name": "Boom, Boom, Boom, Boom!!",
+      "artist": "Vengaboys",
+      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW",
+      "image": "https://i.scdn.co/image/ab67616d0000485150fcab12b2e2e0ee0019ac53",
+      "played_at": "2026-09-12T06:18:47.463Z"
     },
     {
-      "name": "Technologic",
-      "artist": "Daft Punk",
-      "url": "https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS",
-      "image": "https://i.scdn.co/image/ab67616d000048512ed719bad67261c7bf090c70",
-      "played_at": "2026-09-11T10:27:28.031Z"
+      "name": "My Immortal",
+      "artist": "Daniela Presta, Winterborn",
+      "url": "https://open.spotify.com/track/5yd0SGfGZ4mknJVUdtzUts",
+      "image": "https://i.scdn.co/image/ab67616d000048510f4f5dd627333869f37e46ba",
+      "played_at": "2026-09-12T06:15:24.412Z"
     },
     {
-      "name": "One (Always Hardcore)",
-      "artist": "Scooter",
-      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL",
-      "image": "https://i.scdn.co/image/ab67616d000048511a11c170e42b507791da1151",
-      "played_at": "2026-09-11T10:25:33.597Z"
+      "name": "Invaders Must Die",
+      "artist": "The Prodigy",
+      "url": "https://open.spotify.com/track/37s6oFaWKKSOCVVNfYdHR8",
+      "image": "https://i.scdn.co/image/ab67616d0000485135d60df940eaff5292f8b431",
+      "played_at": "2026-09-12T06:11:09.190Z"
     }
   ]
 }
